@@ -1,0 +1,350 @@
+2025-11-23-02:10:37 : Starting extraction for Category: Home Garden
+2025-11-23-02:14:30 : URL Opened: https://www.banggood.com/Wholesale-Home-and-Garden-ca-11001.html
+2025-11-23-02:14:30 : Scrolling to load products...
+2025-11-23-02:14:43 : Found 30 cards in Home Garden.
+2025-11-23-02:14:43 : Finished Home Garden. Extracted: 30 rows
+2025-11-23-02:14:45 : Starting extraction for Category: Jewelry
+2025-11-23-02:16:47 : Error in Jewelry: HTTPConnectionPool(host='localhost', port=51273): Read timed out. (read timeout=120)
+2025-11-23-02:16:52 : Starting extraction for Category: Computers
+2025-11-23-02:17:19 : URL Opened: https://www.banggood.com/Wholesale-Computer-and-Office-ca-15001.html
+2025-11-23-02:17:19 : Scrolling to load products...
+2025-11-23-02:17:32 : Found 60 cards in Computers.
+2025-11-23-02:17:32 : Finished Computers. Extracted: 30 rows
+2025-11-23-02:17:35 : Starting extraction for Category: Security
+2025-11-23-02:18:33 : URL Opened: https://www.banggood.com/Wholesale-Security-System-ca-18001.html
+2025-11-23-02:18:33 : Scrolling to load products...
+2025-11-23-02:18:46 : Found 0 cards in Security.
+2025-11-23-02:18:46 : Finished Security. Extracted: 0 rows
+2025-11-23-02:18:48 : Starting extraction for Category: Apparel
+2025-11-23-02:19:47 : URL Opened: https://www.banggood.com/Wholesale-Apparel-and-Accessories-ca-17001.html
+2025-11-23-02:19:47 : Scrolling to load products...
+2025-11-23-02:20:00 : Found 1 cards in Apparel.
+2025-11-23-02:20:00 : Finished Apparel. Extracted: 1 rows
+2025-11-23-02:20:03 : Starting extraction for Category: Home Garden
+2025-11-23-02:20:57 : URL Opened: https://www.banggood.com/Wholesale-Home-and-Garden-ca-11001.html
+2025-11-23-02:20:57 : Scrolling to load products...
+2025-11-23-02:21:10 : Found 60 cards in Home Garden.
+2025-11-23-02:21:10 : Finished Home Garden. Extracted: 30 rows
+2025-11-23-02:21:13 : Starting extraction for Category: Jewelry
+2025-11-23-02:21:22 : URL Opened: https://www.banggood.com/Wholesale-Jewelry-and-Watch-ca-16001.html
+2025-11-23-02:21:22 : Scrolling to load products...
+2025-11-23-02:21:36 : Found 60 cards in Jewelry.
+2025-11-23-02:21:36 : Finished Jewelry. Extracted: 30 rows
+2025-11-23-02:21:39 : Starting extraction for Category: Computers
+2025-11-23-02:21:53 : URL Opened: https://www.banggood.com/Wholesale-Computer-and-Office-ca-15001.html
+2025-11-23-02:21:53 : Scrolling to load products...
+2025-11-23-02:22:07 : Found 60 cards in Computers.
+2025-11-23-02:22:07 : Finished Computers. Extracted: 30 rows
+2025-11-23-02:22:10 : Starting extraction for Category: Security
+2025-11-23-02:22:23 : URL Opened: https://www.banggood.com/Wholesale-Security-System-ca-18001.html
+2025-11-23-02:22:23 : Scrolling to load products...
+2025-11-23-02:22:38 : Found 0 cards in Security.
+2025-11-23-02:22:38 : Finished Security. Extracted: 0 rows
+2025-11-23-02:22:40 : Starting extraction for Category: Apparel
+2025-11-23-02:22:49 : URL Opened: https://www.banggood.com/Wholesale-Apparel-and-Accessories-ca-17001.html
+2025-11-23-02:22:49 : Scrolling to load products...
+2025-11-23-02:23:03 : Found 1 cards in Apparel.
+2025-11-23-02:23:03 : Finished Apparel. Extracted: 1 rows
+2025-11-23-02:23:05 : Starting extraction for Category: Home Garden
+2025-11-23-02:24:15 : URL Opened: https://www.banggood.com/Wholesale-Home-and-Garden-ca-11001.html
+2025-11-23-02:24:15 : Scrolling to load products...
+2025-11-23-02:24:28 : Found 30 cards in Home Garden.
+2025-11-23-02:24:28 : Finished Home Garden. Extracted: 30 rows
+2025-11-23-02:24:30 : Starting extraction for Category: Jewelry
+2025-11-23-02:26:32 : Error in Jewelry: HTTPConnectionPool(host='localhost', port=52371): Read timed out. (read timeout=120)
+2025-11-23-02:28:15 : Starting extraction for Category: Computers
+2025-11-23-02:29:07 : URL Opened: https://www.banggood.com/Wholesale-Computer-and-Office-ca-15001.html
+2025-11-23-02:29:07 : Scrolling to load products...
+2025-11-23-02:29:21 : Found 60 cards in Computers.
+2025-11-23-02:29:21 : Finished Computers. Extracted: 30 rows
+2025-11-23-02:29:23 : Starting extraction for Category: Security
+2025-11-23-02:30:08 : URL Opened: https://www.banggood.com/Wholesale-Security-System-ca-18001.html
+2025-11-23-02:30:08 : Scrolling to load products...
+2025-11-23-02:30:22 : Found 0 cards in Security.
+2025-11-23-02:30:22 : Finished Security. Extracted: 0 rows
+2025-11-23-02:30:24 : Starting extraction for Category: Apparel
+2025-11-23-02:30:34 : URL Opened: https://www.banggood.com/Wholesale-Apparel-and-Accessories-ca-17001.html
+2025-11-23-02:30:34 : Scrolling to load products...
+2025-11-23-02:30:48 : Found 1 cards in Apparel.
+2025-11-23-02:30:48 : Finished Apparel. Extracted: 1 rows
+2025-11-23-02:30:50 : Starting extraction for Category: Home Garden
+2025-11-23-02:31:10 : URL Opened: https://www.banggood.com/Wholesale-Home-and-Garden-ca-11001.html
+2025-11-23-02:31:10 : Scrolling to load products...
+2025-11-23-02:31:24 : Found 60 cards in Home Garden.
+2025-11-23-02:31:24 : Finished Home Garden. Extracted: 30 rows
+2025-11-23-02:31:26 : Starting extraction for Category: Jewelry
+2025-11-23-02:32:14 : URL Opened: https://www.banggood.com/Wholesale-Jewelry-and-Watch-ca-16001.html
+2025-11-23-02:32:14 : Scrolling to load products...
+2025-11-23-02:32:28 : Found 60 cards in Jewelry.
+2025-11-23-02:32:28 : Finished Jewelry. Extracted: 30 rows
+2025-11-23-02:32:31 : Starting extraction for Category: Computers
+2025-11-23-02:33:30 : URL Opened: https://www.banggood.com/Wholesale-Computer-and-Office-ca-15001.html
+2025-11-23-02:33:30 : Scrolling to load products...
+2025-11-23-02:33:44 : Found 60 cards in Computers.
+2025-11-23-02:33:44 : Finished Computers. Extracted: 30 rows
+2025-11-23-02:33:46 : Starting extraction for Category: Security
+2025-11-23-02:35:14 : URL Opened: https://www.banggood.com/Wholesale-Security-System-ca-18001.html
+2025-11-23-02:35:14 : Scrolling to load products...
+2025-11-23-02:35:28 : Found 0 cards in Security.
+2025-11-23-02:35:28 : Finished Security. Extracted: 0 rows
+2025-11-23-02:35:30 : Starting extraction for Category: Apparel
+2025-11-23-02:36:24 : URL Opened: https://www.banggood.com/Wholesale-Apparel-and-Accessories-ca-17001.html
+2025-11-23-02:36:24 : Scrolling to load products...
+2025-11-23-02:36:38 : Found 1 cards in Apparel.
+2025-11-23-02:36:38 : Finished Apparel. Extracted: 1 rows
+2025-11-23-02:36:40 : Starting extraction for Category: Home Garden
+2025-11-23-02:38:43 : Error in Home Garden: HTTPConnectionPool(host='localhost', port=53316): Read timed out. (read timeout=120)
+2025-11-23-02:39:16 : Starting extraction for Category: Jewelry
+2025-11-23-02:39:18 : Error in Jewelry: Message: unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=141.0.7390.54)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff671bfe8e5+80021]
+	GetHandleVerifier [0x0x7ff671bfe940+80112]
+	(No symbol) [0x0x7ff67198060f]
+	(No symbol) [0x0x7ff67197d0bf]
+	(No symbol) [0x0x7ff67196dae9]
+	(No symbol) [0x0x7ff67196f94e]
+	(No symbol) [0x0x7ff67196e0d2]
+	(No symbol) [0x0x7ff67196d859]
+	(No symbol) [0x0x7ff67196d51d]
+	(No symbol) [0x0x7ff67196b08c]
+	(No symbol) [0x0x7ff67196b91c]
+	(No symbol) [0x0x7ff6719846da]
+	(No symbol) [0x0x7ff671a2a47e]
+	(No symbol) [0x0x7ff671a0122a]
+	(No symbol) [0x0x7ff671a2968a]
+	(No symbol) [0x0x7ff671a01003]
+	(No symbol) [0x0x7ff6719c95d1]
+	(No symbol) [0x0x7ff6719ca3f3]
+	GetHandleVerifier [0x0x7ff671ebdc7d+2960429]
+	GetHandleVerifier [0x0x7ff671eb7f3a+2936554]
+	GetHandleVerifier [0x0x7ff671ed8977+3070247]
+	GetHandleVerifier [0x0x7ff671c183ce+185214]
+	GetHandleVerifier [0x0x7ff671c1fe1f+216527]
+	GetHandleVerifier [0x0x7ff671c07b24+117460]
+	GetHandleVerifier [0x0x7ff671c07cdf+117903]
+	GetHandleVerifier [0x0x7ff671bedbb8+11112]
+	BaseThreadInitThunk [0x0x7ffc64887374+20]
+	RtlUserThreadStart [0x0x7ffc65f9cc91+33]
+
+2025-11-23-02:39:21 : Starting extraction for Category: Computers
+2025-11-23-02:41:22 : Error in Computers: HTTPConnectionPool(host='localhost', port=58271): Read timed out. (read timeout=120)
+2025-11-23-02:41:56 : Starting extraction for Category: Security
+2025-11-23-02:43:58 : Error in Security: HTTPConnectionPool(host='localhost', port=58464): Read timed out. (read timeout=120)
+2025-11-23-02:45:33 : Starting extraction for Category: Apparel
+2025-11-23-02:46:15 : URL Opened: https://www.banggood.com/Wholesale-Apparel-and-Accessories-ca-17001.html
+2025-11-23-02:46:15 : Scrolling to load products...
+2025-11-23-02:46:28 : Found 1 cards in Apparel.
+2025-11-23-02:46:28 : Finished Apparel. Extracted: 1 rows
+2025-11-23-02:46:30 : Starting extraction for Category: Home Garden
+2025-11-23-02:46:48 : URL Opened: https://www.banggood.com/Wholesale-Home-and-Garden-ca-11001.html
+2025-11-23-02:46:48 : Scrolling to load products...
+2025-11-23-02:47:02 : Found 60 cards in Home Garden.
+2025-11-23-02:47:02 : Finished Home Garden. Extracted: 30 rows
+2025-11-23-02:47:04 : Starting extraction for Category: Jewelry
+2025-11-23-02:49:06 : Error in Jewelry: HTTPConnectionPool(host='localhost', port=58832): Read timed out. (read timeout=120)
+2025-11-23-02:52:04 : Starting extraction for Category: Computers
+2025-11-23-02:52:56 : URL Opened: https://www.banggood.com/Wholesale-Computer-and-Office-ca-15001.html
+2025-11-23-02:52:56 : Scrolling to load products...
+2025-11-23-02:53:09 : Found 60 cards in Computers.
+2025-11-23-02:53:09 : Finished Computers. Extracted: 30 rows
+2025-11-23-02:53:11 : Starting extraction for Category: Security
+2025-11-23-02:53:15 : URL Opened: https://www.banggood.com/Wholesale-Security-System-ca-18001.html
+2025-11-23-02:53:15 : Scrolling to load products...
+2025-11-23-02:53:36 : Found 0 cards in Security.
+2025-11-23-02:53:36 : Finished Security. Extracted: 0 rows
+2025-11-23-02:53:39 : Starting extraction for Category: Apparel
+2025-11-23-02:54:30 : URL Opened: https://www.banggood.com/Wholesale-Apparel-and-Accessories-ca-17001.html
+2025-11-23-02:54:30 : Scrolling to load products...
+2025-11-23-02:54:43 : Found 30 cards in Apparel.
+2025-11-23-02:54:43 : Finished Apparel. Extracted: 0 rows
+2025-11-23-03:11:00 : Starting extraction for Category: Home Garden
+2025-11-23-03:11:02 : Error in Home Garden: Message: unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=141.0.7390.54)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff671bfe8e5+80021]
+	GetHandleVerifier [0x0x7ff671bfe940+80112]
+	(No symbol) [0x0x7ff67198060f]
+	(No symbol) [0x0x7ff67197d0bf]
+	(No symbol) [0x0x7ff67196dae9]
+	(No symbol) [0x0x7ff67196f94e]
+	(No symbol) [0x0x7ff67196e0d2]
+	(No symbol) [0x0x7ff67196d859]
+	(No symbol) [0x0x7ff67196d51d]
+	(No symbol) [0x0x7ff67196b08c]
+	(No symbol) [0x0x7ff67196b91c]
+	(No symbol) [0x0x7ff6719846da]
+	(No symbol) [0x0x7ff671a2a47e]
+	(No symbol) [0x0x7ff671a0122a]
+	(No symbol) [0x0x7ff671a2968a]
+	(No symbol) [0x0x7ff671a01003]
+	(No symbol) [0x0x7ff6719c95d1]
+	(No symbol) [0x0x7ff6719ca3f3]
+	GetHandleVerifier [0x0x7ff671ebdc7d+2960429]
+	GetHandleVerifier [0x0x7ff671eb7f3a+2936554]
+	GetHandleVerifier [0x0x7ff671ed8977+3070247]
+	GetHandleVerifier [0x0x7ff671c183ce+185214]
+	GetHandleVerifier [0x0x7ff671c1fe1f+216527]
+	GetHandleVerifier [0x0x7ff671c07b24+117460]
+	GetHandleVerifier [0x0x7ff671c07cdf+117903]
+	GetHandleVerifier [0x0x7ff671bedbb8+11112]
+	BaseThreadInitThunk [0x0x7ffc64887374+20]
+	RtlUserThreadStart [0x0x7ffc65f9cc91+33]
+
+2025-11-23-03:11:05 : Starting extraction for Category: Jewelry
+2025-11-23-03:11:06 : Error in Jewelry: Message: unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=141.0.7390.54)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff671bfe8e5+80021]
+	GetHandleVerifier [0x0x7ff671bfe940+80112]
+	(No symbol) [0x0x7ff67198060f]
+	(No symbol) [0x0x7ff67197d0bf]
+	(No symbol) [0x0x7ff67196dae9]
+	(No symbol) [0x0x7ff67196f94e]
+	(No symbol) [0x0x7ff67196e0d2]
+	(No symbol) [0x0x7ff67196d859]
+	(No symbol) [0x0x7ff67196d51d]
+	(No symbol) [0x0x7ff67196b08c]
+	(No symbol) [0x0x7ff67196b91c]
+	(No symbol) [0x0x7ff6719846da]
+	(No symbol) [0x0x7ff671a2a47e]
+	(No symbol) [0x0x7ff671a0122a]
+	(No symbol) [0x0x7ff671a2968a]
+	(No symbol) [0x0x7ff671a01003]
+	(No symbol) [0x0x7ff6719c95d1]
+	(No symbol) [0x0x7ff6719ca3f3]
+	GetHandleVerifier [0x0x7ff671ebdc7d+2960429]
+	GetHandleVerifier [0x0x7ff671eb7f3a+2936554]
+	GetHandleVerifier [0x0x7ff671ed8977+3070247]
+	GetHandleVerifier [0x0x7ff671c183ce+185214]
+	GetHandleVerifier [0x0x7ff671c1fe1f+216527]
+	GetHandleVerifier [0x0x7ff671c07b24+117460]
+	GetHandleVerifier [0x0x7ff671c07cdf+117903]
+	GetHandleVerifier [0x0x7ff671bedbb8+11112]
+	BaseThreadInitThunk [0x0x7ffc64887374+20]
+	RtlUserThreadStart [0x0x7ffc65f9cc91+33]
+
+2025-11-23-03:11:09 : Starting extraction for Category: Computers
+2025-11-23-03:11:11 : Error in Computers: Message: unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=141.0.7390.54)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff671bfe8e5+80021]
+	GetHandleVerifier [0x0x7ff671bfe940+80112]
+	(No symbol) [0x0x7ff67198060f]
+	(No symbol) [0x0x7ff67197d0bf]
+	(No symbol) [0x0x7ff67196dae9]
+	(No symbol) [0x0x7ff67196f94e]
+	(No symbol) [0x0x7ff67196e0d2]
+	(No symbol) [0x0x7ff67196d859]
+	(No symbol) [0x0x7ff67196d51d]
+	(No symbol) [0x0x7ff67196b08c]
+	(No symbol) [0x0x7ff67196b91c]
+	(No symbol) [0x0x7ff6719846da]
+	(No symbol) [0x0x7ff671a2a47e]
+	(No symbol) [0x0x7ff671a0122a]
+	(No symbol) [0x0x7ff671a2968a]
+	(No symbol) [0x0x7ff671a01003]
+	(No symbol) [0x0x7ff6719c95d1]
+	(No symbol) [0x0x7ff6719ca3f3]
+	GetHandleVerifier [0x0x7ff671ebdc7d+2960429]
+	GetHandleVerifier [0x0x7ff671eb7f3a+2936554]
+	GetHandleVerifier [0x0x7ff671ed8977+3070247]
+	GetHandleVerifier [0x0x7ff671c183ce+185214]
+	GetHandleVerifier [0x0x7ff671c1fe1f+216527]
+	GetHandleVerifier [0x0x7ff671c07b24+117460]
+	GetHandleVerifier [0x0x7ff671c07cdf+117903]
+	GetHandleVerifier [0x0x7ff671bedbb8+11112]
+	BaseThreadInitThunk [0x0x7ffc64887374+20]
+	RtlUserThreadStart [0x0x7ffc65f9cc91+33]
+
+2025-11-23-03:11:13 : Starting extraction for Category: Security
+2025-11-23-03:11:15 : Error in Security: Message: unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=141.0.7390.54)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff671bfe8e5+80021]
+	GetHandleVerifier [0x0x7ff671bfe940+80112]
+	(No symbol) [0x0x7ff67198060f]
+	(No symbol) [0x0x7ff67197d0bf]
+	(No symbol) [0x0x7ff67196dae9]
+	(No symbol) [0x0x7ff67196f94e]
+	(No symbol) [0x0x7ff67196e0d2]
+	(No symbol) [0x0x7ff67196d859]
+	(No symbol) [0x0x7ff67196d51d]
+	(No symbol) [0x0x7ff67196b08c]
+	(No symbol) [0x0x7ff67196b91c]
+	(No symbol) [0x0x7ff6719846da]
+	(No symbol) [0x0x7ff671a2a47e]
+	(No symbol) [0x0x7ff671a0122a]
+	(No symbol) [0x0x7ff671a2968a]
+	(No symbol) [0x0x7ff671a01003]
+	(No symbol) [0x0x7ff6719c95d1]
+	(No symbol) [0x0x7ff6719ca3f3]
+	GetHandleVerifier [0x0x7ff671ebdc7d+2960429]
+	GetHandleVerifier [0x0x7ff671eb7f3a+2936554]
+	GetHandleVerifier [0x0x7ff671ed8977+3070247]
+	GetHandleVerifier [0x0x7ff671c183ce+185214]
+	GetHandleVerifier [0x0x7ff671c1fe1f+216527]
+	GetHandleVerifier [0x0x7ff671c07b24+117460]
+	GetHandleVerifier [0x0x7ff671c07cdf+117903]
+	GetHandleVerifier [0x0x7ff671bedbb8+11112]
+	BaseThreadInitThunk [0x0x7ffc64887374+20]
+	RtlUserThreadStart [0x0x7ffc65f9cc91+33]
+
+2025-11-23-03:11:17 : Starting extraction for Category: Apparel
+2025-11-23-03:11:19 : Error in Apparel: Message: unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=141.0.7390.54)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff671bfe8e5+80021]
+	GetHandleVerifier [0x0x7ff671bfe940+80112]
+	(No symbol) [0x0x7ff67198060f]
+	(No symbol) [0x0x7ff67197d0bf]
+	(No symbol) [0x0x7ff67196dae9]
+	(No symbol) [0x0x7ff67196f94e]
+	(No symbol) [0x0x7ff67196e0d2]
+	(No symbol) [0x0x7ff67196d859]
+	(No symbol) [0x0x7ff67196d51d]
+	(No symbol) [0x0x7ff67196b08c]
+	(No symbol) [0x0x7ff67196b91c]
+	(No symbol) [0x0x7ff6719846da]
+	(No symbol) [0x0x7ff671a2a47e]
+	(No symbol) [0x0x7ff671a0122a]
+	(No symbol) [0x0x7ff671a2968a]
+	(No symbol) [0x0x7ff671a01003]
+	(No symbol) [0x0x7ff6719c95d1]
+	(No symbol) [0x0x7ff6719ca3f3]
+	GetHandleVerifier [0x0x7ff671ebdc7d+2960429]
+	GetHandleVerifier [0x0x7ff671eb7f3a+2936554]
+	GetHandleVerifier [0x0x7ff671ed8977+3070247]
+	GetHandleVerifier [0x0x7ff671c183ce+185214]
+	GetHandleVerifier [0x0x7ff671c1fe1f+216527]
+	GetHandleVerifier [0x0x7ff671c07b24+117460]
+	GetHandleVerifier [0x0x7ff671c07cdf+117903]
+	GetHandleVerifier [0x0x7ff671bedbb8+11112]
+	BaseThreadInitThunk [0x0x7ffc64887374+20]
+	RtlUserThreadStart [0x0x7ffc65f9cc91+33]
+
+2025-11-23-03:24:59 : Starting extraction for Category: Home Garden
+2025-11-23-03:25:42 : URL Opened: https://www.banggood.com/Wholesale-Home-and-Garden-ca-11001.html
+2025-11-23-03:25:42 : Scrolling to load products...
+2025-11-23-03:25:56 : Found 60 cards in Home Garden.
+2025-11-23-03:25:56 : Finished Home Garden. Extracted: 30 rows
+2025-11-23-03:25:58 : Starting extraction for Category: Jewelry
+2025-11-23-03:26:22 : URL Opened: https://www.banggood.com/Wholesale-Jewelry-and-Watch-ca-16001.html
+2025-11-23-03:26:22 : Scrolling to load products...
+2025-11-23-03:26:35 : Found 60 cards in Jewelry.
+2025-11-23-03:26:35 : Finished Jewelry. Extracted: 30 rows
+2025-11-23-03:26:37 : Starting extraction for Category: Computers
+2025-11-23-03:27:21 : URL Opened: https://www.banggood.com/Wholesale-Computer-and-Office-ca-15001.html
+2025-11-23-03:27:21 : Scrolling to load products...
+2025-11-23-03:27:35 : Found 60 cards in Computers.
+2025-11-23-03:27:35 : Finished Computers. Extracted: 30 rows
+2025-11-23-03:27:37 : Starting extraction for Category: Security
+2025-11-23-03:27:52 : URL Opened: https://www.banggood.com/Wholesale-Security-System-ca-18001.html
+2025-11-23-03:27:52 : Scrolling to load products...
+2025-11-23-03:28:06 : Found 0 cards in Security.
+2025-11-23-03:28:06 : Finished Security. Extracted: 0 rows
+2025-11-23-03:28:08 : Starting extraction for Category: Apparel
+2025-11-23-03:28:32 : URL Opened: https://www.banggood.com/Wholesale-Apparel-and-Accessories-ca-17001.html
+2025-11-23-03:28:32 : Scrolling to load products...
+2025-11-23-03:28:45 : Found 1 cards in Apparel.
+2025-11-23-03:28:45 : Finished Apparel. Extracted: 1 rows
